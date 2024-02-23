@@ -2,8 +2,9 @@
     font-weight: bold;
 }
 .textoInicial{
-    color:cadetblue;
     font-size:x-large;
+    color: #5C8374;
+
 }
 .contenedor{
     border-radius: 8px;
@@ -14,23 +15,22 @@
 }
 #barra{
     margin: 10px 0px;
-    color: #EEEEEE;
+    color: #9EC8B9;
 }
 #inicio{
     margin: 20px;
 }
 h1{
     text-align: center;
-    color: #9B4444;
-    background-color: #A3C9AA;
+    color: #092635;
+    background-color: #5C8374;
 }
 *{
     margin: 0;
     padding: 0;
 }
 body{
-    background-color: #C68484;
-
+    background-color:#1B4242;
 }
 p{
     margin-top: 0;
