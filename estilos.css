@@ -1,0 +1,37 @@
+.negrita{
+    font-weight: bold;
+}
+.textoInicial{
+    color:cadetblue;
+    font-size:x-large;
+}
+.contenedor{
+    border-radius: 8px;
+    text-align: justify;
+    background-color: #EEEEEE;
+    padding: 10px;
+    margin: 10px 0;
+}
+#barra{
+    margin: 10px 0px;
+    color: #EEEEEE;
+}
+#inicio{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    color: #9B4444;
+    background-color: #A3C9AA;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #C68484;
+
+}
+p{
+    margin-top: 0;
+}
