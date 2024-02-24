@@ -4,14 +4,13 @@
 .textoInicial{
     font-size:x-large;
     color: #5C8374;
-
 }
 .contenedor{
     border-radius: 8px;
     text-align: justify;
     background-color: #EEEEEE;
     padding: 10px;
-    margin: 10px 0;
+    margin: 15px 0;
 }
 #barra{
     margin: 10px 0px;
@@ -22,15 +21,16 @@
 }
 h1{
     text-align: center;
-    color: #092635;
-    background-color: #5C8374;
+    color: #FBA834;
+    border-bottom: solid aliceblue;
+    padding: 0 0 15px;
 }
 *{
     margin: 0;
     padding: 0;
 }
 body{
-    background-color:#1B4242;
+    background-color: #333A73;
 }
 p{
     margin-top: 0;
