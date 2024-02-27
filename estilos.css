@@ -25,6 +25,11 @@ h1{
     border-bottom: solid aliceblue;
     padding: 0 0 15px;
 }
+.contenedor-img{
+    text-align: center;
+    margin: 25px;
+}
+
 *{
     margin: 0;
     padding: 0;
